@@ -1,0 +1,25 @@
+{
+  "name": "setting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "logger": "0.0.1",
+    "play-sound": "^1.1.2"
+  },
+  "engines": {
+    "node": "^9.11.1",
+    "npm": "^5.6.0"
+  },
+  "devDependencies": {
+    "@font-face/node": "^1.0.3",
+    "node-sass": "^4.11.0"
+  }
+}
